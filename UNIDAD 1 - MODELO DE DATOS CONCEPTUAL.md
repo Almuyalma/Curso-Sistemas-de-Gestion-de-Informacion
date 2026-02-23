@@ -1,32 +1,4 @@
-Skip to content
-chimosensei
-UF2213
-Repository navigation
-Code
-Issues
-Pull requests
-1
- (1)
-Actions
-Projects
-Security
-Insights
-Settings
-Files
-Go to file
-t
-Aliaksei
-Almudena
-Aris
-Conchi
-Eva
-Isabel
-Iuri
-Jack
-Jose
-Manuela
-Natalia
-Neimys
+
 README.md
 UD1 Test.md
 UD2 Introducción a las Bases de Datos.md
